@@ -1,0 +1,6 @@
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditor\bin\Debug\ScribestarEditor.exe.config
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditor\bin\Debug\ScribestarEditor.exe
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditor\bin\Debug\ScribestarEditor.pdb
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditor\obj\Debug\ScribestarEditor.exe
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditor\obj\Debug\ScribestarEditor.pdb
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditor\obj\Debug\ScribestarEditor.csprojResolveAssemblyReference.cache

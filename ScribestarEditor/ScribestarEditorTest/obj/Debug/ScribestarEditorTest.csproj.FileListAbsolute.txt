@@ -1,0 +1,10 @@
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\obj\Debug\ScribestarEditorTest.csprojResolveAssemblyReference.cache
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\bin\Debug\ScribestarEditorTest.dll.config
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\bin\Debug\ScribestarEditorTest.dll
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\bin\Debug\ScribestarEditorTest.pdb
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\bin\Debug\nunit.framework.dll
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\bin\Debug\nunit.framework.xml
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\obj\Debug\ScribestarEditorTest.dll
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\obj\Debug\ScribestarEditorTest.pdb
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\bin\Debug\ScribestarEditor.exe
+c:\users\sarah.wilson\documents\visual studio 2015\Projects\ScribestarEditor\ScribestarEditorTest\bin\Debug\ScribestarEditor.pdb
